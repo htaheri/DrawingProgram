@@ -13,4 +13,4 @@ R x1 y1 x2 y2 Draw a new rectangle, with upper left corner at coordinate (x1, y1
 Q Quit the program
 
 Comment:
-Some classes still need implementing unit tests.
+Some classes still need implementing unit tests!
