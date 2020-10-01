@@ -22,8 +22,6 @@ public class Line implements Shape {
 			
 	}
 
-	
-	
 	public Boolean[][] Draw(Boolean[][] pixels) {
 
 
